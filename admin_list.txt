@@ -1,0 +1,7 @@
+administrator
+wp-login.php
+wp-admin
+login.php
+admin/login.php
+user.php
+admin.{ext}
